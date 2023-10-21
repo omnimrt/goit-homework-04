@@ -476,6 +476,7 @@ img {
   gap: 16px;
 }
 
-.footer-link:hover {
+.footer-link:hover,
+.footer-link:focus {
   background-color: #31d0aa;
 }
